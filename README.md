@@ -1,1 +1,1 @@
-# python_lessoms
+# python_lessons
